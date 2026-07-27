@@ -28,7 +28,7 @@ The generated workbook includes:
 * Optional comments showing matched and missing file paths (unless **No Comments** is selected).
 
 ---
-**Key Features**
+## Key Features
 * Validates document references in the CONN-4 Compliance Validation workbook.
 * Supports both submission folders and ZIP files (including nested ZIP files).
 * Automatically detects document/filename columns across all worksheets.
